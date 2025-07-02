@@ -1,3 +1,2 @@
 jujux
-
-https://prod.liveshare.vsengsaas.visualstudio.com/join?F939D4D5EF56A73AFE309ED8AEE7235DBC6A
+https://prod.liveshare.vsengsaas.visualstudio.com/join?310D5810CBF5549F4115E7A15C4773D9543A
